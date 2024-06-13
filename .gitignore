@@ -1,0 +1,247 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+jspm_packages/
+web_modules/
+
+# Environment variables
+.env
+.env.*.local
+
+# Build directories and artifacts
+dist/
+build/
+out/
+coverage/
+
+# IDE and Editor directories
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.bak
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.lock
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+.env/
+env.bak/
+.venv.bak/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.gradle/
+build/
+
+# JetBrains
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+*.stackdump
+*.directory
+*.EXE
+*.DLL
+*.COM
+*.MSI
+*.OBJ
+*.LIB
+*.EXE.manifest
+
+# Linux
+*~
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.gz
+
+# Secrets
+*.key
+*.pem
+*.crt
+
+# GitHub Pages
+public/
+.cache/
+
+# TypeScript
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+
+# React Native
+.expo/
+.expo-shared/
+*.expo
+*.expo-shared
+
+# API Keys and Secrets
+*.key
+*.pem
+*.cert
+
+# Android
+.idea/
+.gradle/
+local.properties
+**/build/
+**/release/
+
+# iOS
+.DS_Store
+build/
+DerivedData/
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.xcuserstate
+xcuserdata/
+*.hmap
+*.ipa
+*.xcuserdatad/
+*.xcworkspace/
+Carthage/
+Carthage/Build
+*.dSYM.zip
+*.dSYM
+*.xcodeproj/
+*.xcworkspace/
+
+# Cloud storage files
+*.swp
+*.swo
+
+# Database files
+*.sql
+*.sqlite
+*.sqlite3
+
+# Build artifacts
+out/
+dist/
+*.dll
+*.exe
+*.so
+
+# Dependency directories and files
+node_modules/
+bower_components/
+jspm_packages/
+.pnp/
+.pnp.js
+
+# Haskell
+dist/
+*.hi
+*.o
+*.hcr
+
+# PHP
+vendor/
+*.lock
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.log
+*.dvi
+*.pdf
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Compiled files and binaries
+*.class
+*.o
+*.so
+*.dll
+*.exe
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+__pycache__/
+db.sqlite3
+media
+
+# Flask
+instance/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Rails
+*.log
+*.pid
+*.pid.lock
+*.key
+*.old
+*.bak
+*.orig
+*.rej
+*.swo
+*.swp
+tmp/
+log/
+vendor/bundle/
+vendor/cache/
+vendor/gems/
+vendor/ruby/
+
+# WordPress
+wp-content/uploads/
+wp-content/plugins/
+wp-content/cache/
+wp-content/upgrade/
+
+# Markdown
+*.md
+
+# Ignored files
+!.gitignore
+
